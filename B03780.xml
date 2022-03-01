@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information for Lieutenant Collonel Forbes, and John Forbes writer in Edinburgh Agent for the late regiment of Sir John Hill at Fort-William, against Captain Allan Cathcart, Captain Menzies and Captain Hamiltoun.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03780</idno>
+            <idno type="STC">Wing I164D</idno>
+            <idno type="STC">ESTC R178648</idno>
+            <idno type="EEBO-CITATION">52614712</idno>
+            <idno type="OCLC">ocm 52614712</idno>
+            <idno type="VID">175915</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03780)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175915)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2755:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information for Lieutenant Collonel Forbes, and John Forbes writer in Edinburgh Agent for the late regiment of Sir John Hill at Fort-William, against Captain Allan Cathcart, Captain Menzies and Captain Hamiltoun.</title>
+               </titleStmt>
+               <extent>4+ p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh, :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Lacks all after p. 4.</note>
+                  <note>Imperfect: tightly bound with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hill, John, --  Sir, fl. 1700 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Forbes, John --  Lieutenant Colonel --  Trial, litigation, etc. --  Early works to 1800.</term>
+               <term>Cathcart, Allan, --  Captain, fl. 1700 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Menzies, James, --  Captain, fl. 1700 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Hamilton, Thomas, --  Captain, fl. 1700 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Scotland. --  Army --  Pay, allowances, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="accusation">
+            <pb n="1" facs="tcp:175915:1"/>
+            <head>
+               <hi>INFORMATION</hi> For Lieutenant Collonel <hi>Forbes,</hi> and <hi>John For<g ref="char:EOLhyphen"/>bes</hi> Writer in <hi>Edinburgh</hi> Agent for the late Regiment of Sir <hi>John Hill</hi> at <hi>Fort-Willi<g ref="char:EOLhyphen"/>am,</hi> Againſt Captain <hi>Allan Cathcart,</hi> Captain <hi>Menzies</hi> and Captain <hi>Hamiltoun.</hi>
+            </head>
+            <p>IT is manifeſt by what is Repreſented by the Collonel, that the ſaids Captains have no ground to crave any Money (under the cover of being the Remains of the Re<g ref="char:EOLhyphen"/>tention) either from the Lieutenant-Collonel or Agent, and that both of them ought to be Aſſoilȝied from the Complaint by all the Rules that can be called Law or right Reaſon.</p>
+            <p>The Collonel <hi>as ſuch</hi> has Right to the Superplus of the Retention, for defraying the con<g ref="char:EOLhyphen"/>tingencies of his Regiment: Eſpecially being in Gariſon at a Poſt where he was in ſome manner both a <hi>Civil</hi> and <hi>Military Governour,</hi> and ſuſtained the <hi>Charge</hi> of both with very no<g ref="char:EOLhyphen"/>tour <hi>prudence</hi> and <hi>Loyalty.</hi>
+            </p>
+            <p>The Collonel <hi>Exerciſed</hi> his Right by Ordering this Money to be payed without any o<g ref="char:EOLhyphen"/>ther <hi>Rule</hi> or <hi>Reſtraint</hi> than his own <hi>Diſcretion.</hi> But his <hi>Generoſity</hi> and <hi>Indulgence</hi> in giving a <hi>part</hi> of it at ſuch <hi>Occaſions</hi> as he <hi>thought fit</hi> to his Officers, would now be <hi>distorted</hi> by the <hi>Complainers;</hi> So as to Retaliat his Goodneſs with his <hi>Loſs,</hi> and the <hi>Damnage</hi> of the Lieutenant-Collonel, whoſe faithful Services and Expenſes for the common Intereſt, the Collonel did fairly Re-pay or Advance.</p>
+            <p>Such a Precedent would reach <hi>Numbers</hi> of other Perſons under pretence that they had got Shares of the Retention: By which their would be a <hi>Foundation</hi> laid for the Captains and their <hi>Succeſſors</hi> againſt als many Receivers, and their <hi>Repreſentatives,</hi> as would make up a new Regiment.</p>
+            <p>But as the Collonel had not only the Sole Right, but likewiſe the Sole Adminiſtration of the Retention Money, as appears by his being the only Perſon who drew Orders on, and gave Diſcharges to the Agent thereanent, (the <hi>Captains</hi> even when they got <hi>benevo<g ref="char:EOLhyphen"/>lences</hi> never having given one ſingle <hi>Receipt</hi>) ſo the ſaid Collonel Imployed the Lieute<g ref="char:EOLhyphen"/>nent Collonel on the <hi>publick</hi> Buſineſs, gave him his <hi>Instructions,</hi> Examined his <hi>reports</hi> and <hi>Expenſes,</hi> approved his <hi>management, allowed</hi> his Bills, ordered his <hi>re-imburſement,</hi> and final<g ref="char:EOLhyphen"/>ly gave <hi>Diſcharges</hi> to the Agent thereupon. Whence it is not poſſible even in Imaginati<g ref="char:EOLhyphen"/>on to <hi>make ſuch a view</hi> of the matter as either the Lieutenant-Collonel or Agent can be reah<g ref="char:EOLhyphen"/>ed.</p>
+            <p>
+               <hi>Yet</hi> the Complainers have been pleaſed to give in a ſpecial Claim to the Right Honourable The Committie of Council, (to whom the Affair was remitted) alledging that the Ex<g ref="char:EOLhyphen"/>creſcence
+<pb n="2" facs="tcp:175915:2"/>of the Retention Money was not Divided as it ought, and was in uſe to be done there being a great part thereof given to Lieutenant-Collonel <hi>Forbes,</hi> whereof theſe ar<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Particulars, <hi>viz.</hi>
+               <list>
+                  <item>1, In the account of Retention from <hi>April</hi> 1694, to <hi>April</hi> 1695 (recovered from the Agent) there is ſtated <hi>per</hi> Bills advanced to the Lieutenant Collo<g ref="char:EOLhyphen"/>nel 410 lib. 13. <hi>ſs.</hi> 3. <abbr>
+                        <hi>d.</hi>
+                     </abbr> Sterling.</item>
+                  <item>2. From <hi>April</hi> 1695, to <hi>April</hi> 1696, 227. lib. 10. <hi>ſſ.</hi> 5. <hi>ds.</hi> Sterling: After which the Words <hi>as per Receipt</hi> are preſently razed.</item>
+                  <item>3. From <hi>April</hi> 1696, to <hi>April</hi> 1697, 115. lib. Sterling given to him.</item>
+                  <item>4. From <hi>April</hi> 1697, to <hi>April</hi> 1698, by Bills to <hi>London</hi> 720. lib. Sterling.</item>
+                  <item>5. By two of the Books produced, the Agent Charges himſelf with the Lieutenant Collonels monthly Pay. And then ſays, <hi>Item,</hi> 30. libs to, <hi>&amp;c.</hi>
+                  </item>
+               </list> Which argues a fraudulent concealment, from whence they intend to conclude that the Lieutenant Collonel ought to be Decerned to repeat, or the Agent to make over again a ſecond Payment: But at the ſame time theſe Gentlemen for<g ref="char:EOLhyphen"/>get the Lieutenant Collonels riding Poſt Four Thouſand Miles in the Regiments ſervice and advantages to the value of more as Five Thouſand Pounds ſterling obtained to the Regiment by his Means! Howevere.</p>
+            <p>It is Anſwered, that the Lieutenant Collonel, and Agent ought to be Aſſoil<g ref="char:EOLhyphen"/>ȝied by all the <hi>Land marks</hi> of <hi>Law</hi> and <hi>Form,</hi> which our Predeceſſors have ſet for enſure<g ref="char:EOLhyphen"/>ing the Safety of the Leidges. In ſo far as</p>
+            <p n="1">1. All that can poſſibly be Claimed by the Captains, is comprehended either under their <hi>ordinary Pay,</hi> or their pretence to a Share in the <hi>Retention.</hi>
+            </p>
+            <p>Their <hi>pay</hi> is fully <hi>Diſcharged</hi> both by themſelves and the Collonel: And the Collon<g ref="char:EOLhyphen"/>el has ever ſince the firſt Eſtabliſhment <hi>Solly by himſelf</hi> given ample <hi>Diſcharges of the Reten<g ref="char:EOLhyphen"/>tion</hi> to the Agent: Which proceeded upon allowance of the Articles Deburſed to the Lieutenant Collonel, and conſequently includes likeways a <hi>Diſcharge</hi> to the <hi>Lieutenant Collonel,</hi> beſides his ſeparat Inſtructions which he has thereof.</p>
+            <p>Theſe Diſcharges are a <hi>Braſen Wall</hi> againſt which all Attacks are <hi>vain,</hi> and are an <hi>Her<g ref="char:EOLhyphen"/>cules Pillar</hi> beyond which none can go, till the Lords of Seſſion do Reduce them. For by our Law a valid Writ, not labouring of an <hi>Intrinſical nullity</hi> muſt ſtill while it <hi>ſtands</hi> take its <hi>effect,</hi> (eſpecially when there is no Ryot or Breach of the Peace can be pretend<g ref="char:EOLhyphen"/>ed anent it) ay and while it be anulled by their Lordſhips, before whom Dyets not be<g ref="char:EOLhyphen"/>ing perremptor, His Majeſties Subjects will get <hi>time</hi> and <hi>means of Probation</hi> for Defence and Support of their Rights.</p>
+            <p>It is not doubted, but if the Complainers had Informed their Lawyers of the Tenor of theſe Diſcharges, whereby the Affair reſolves <hi>purely</hi> into the Diſcharging of <hi>privat civil Rights,</hi> they would never have preſumed to divert the Lords of His Majeſties moſt Ho<g ref="char:EOLhyphen"/>nourable privy Council, from the <hi>greater</hi> and <hi>publick matters</hi> of the Nation, either with Complaint or <hi>Compt and Reckoning.</hi> For however Officers in time of <hi>War,</hi> or while they <hi>ſtand undisbanded,</hi> may have <hi>extraordinary</hi> Remeids that they may not be drawn away from their Poſts; yet theſe Gentlemen having returned to their privat Stations, there is no Law for exempting them from <hi>Common Rules;</hi> eſpecially conſidering what they might have known the <hi>Councils mind</hi> by their Lordſhips not allowing the Addreſſes on the like accompt of the then Lord <hi>Lindſay,</hi> and Collonel <hi>Buchans</hi> Officers to be ſo much as in the leaſt inſiſted upon.</p>
+            <p n="2">2. Suppoſe (which is a great <hi>poſtulatins</hi>) that the Collonels Right to grant theſe Diſcharges were now to be canvaſſed: His Right to the Remains of the Retention at the leaſt after the Incidents of the Regiment are Diſcharged, is fully Eſtabliſhed by the <hi>nature</hi> of the thing, by His <hi>Majeſties Deciſions,</hi> by the <hi>Councils Authority,</hi> by the Common <hi>uſage and cuſtom</hi> not only here but every where elſe; and finally by the <hi>inextricable abſur<g ref="char:EOLhyphen"/>dities</hi> that would follow in a contrary event. Neither are their any Specialities that can <hi>diſtinguiſh</hi> the preſent caſe.</p>
+            <p>The other Officers received all the Pay appointed to them by the Eſtabliſhment <hi>through the hands</hi> of the Collonel, who drew Orders and Precepts for the ſame on the Agent: So that whatſoever is not <hi>expreſly appointed</hi> to the Captains by the Eſtabliſhment, (as the Retention is not) <hi>Remains</hi> with the Collonel, and he may <hi>retain</hi> it, and they have no Title to ſeek it.</p>
+            <p>The Common <hi>uſage,</hi> even in this ſame Regiment, that all Orders for the Agents pay<g ref="char:EOLhyphen"/>ing of Money are given <hi>by</hi> the Collonel, that Accompts are made <hi>to</hi> him, that Diſcharges are taken <hi>from</hi> him; That the Captains Diſcharges even of their ordinary Pay are pre<g ref="char:EOLhyphen"/>ſented to him <hi>qua instructions:</hi> And that the Captains do not ſo much as grant either <hi>Diſ<g ref="char:EOLhyphen"/>charge or Receipt for Retention;</hi> yea, the Gratuities they got of it were payed in Caſh <hi>with<g ref="char:EOLhyphen"/>out Receipt:</hi> Laſtly, that the Collonel Diſpenſed the Remains of Retention, without any Barr to his <hi>Inclinations,</hi> as to <hi>time, manner,</hi> or <hi>Perſons:</hi> are more than ſufficient Eviden<g ref="char:EOLhyphen"/>ces
+<pb n="3" facs="tcp:175915:2"/>that what ever he beſtowed of the ſaid Money after the Services of the Regiment, was <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t of pure Benevolence.</p>
+            <p>If it were otherways, <hi>Collonels</hi> and thoſe of the <hi>Leidges</hi> who deal with them would of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll men be the moſt Miſerable. For preſently Captains and their Heirs would not only <hi>
+                  <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>peat</hi> the whole Retentions any time within 40. <hi>years</hi> from the Collonels and their Poſte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty: But likewiſe, <hi>any</hi> Conjunct or confident <hi>Perſon</hi> that got Money from them upon Pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>epts on their Agents muſt <hi>lay down,</hi> unleſs they have <hi>keeped</hi> the <hi>Inſtructions</hi> of the onerous <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auſe for what they Received.</p>
+            <p>Sir <hi>John Hills</hi> Captains <hi>themſelves</hi> have <hi>ipſo facto</hi> acknowledged, and Homologate his <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>accepting</hi> unequal Shares from him, and by <hi>granting</hi> Bonds, which a Man would ne<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er do <hi>for his own:</hi> as appears by the Inſtances ſet down in the Condeſcendance of inſtru<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tions ſubjoyned to the Collonels Petition: As it is certain that while the Regiment ſtood, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Complainers</hi> never dreamed of Challenging their want of former years Shares, which is a <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt Defence againſt them when <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it is Diſbanded.</p>
+            <p>Without further reaſoning on this Matter, it is known to the Lords of His Majeſties <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſt Honourable privy Council, how His Sacred Majeſtie has always thus Determined, and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow their Lordſhips did Reject the Petitions of the then Lord <hi>Lindſay,</hi> and <hi>Buchans</hi> Offi<g ref="char:EOLhyphen"/>cers before-mentioned.</p>
+            <p>But the <hi>Complainers</hi> knowing that they want <hi>things</hi> muſt <hi>invent Names</hi> and call their Caſe a <hi>ſpeciality.</hi> Yet it is moſt certain that no <hi>Vail</hi> can cover it from Juſtice.</p>
+            <p>It is indeed pretended, that tho in the common caſe the Collonel may have the Retenti<g ref="char:EOLhyphen"/>on, yet their honeſt Collonel has abandoned his Right by his uſe and Cuſtom of Commu<g ref="char:EOLhyphen"/>nicating with them, which is Inſtructed <hi>ſcripto</hi> by two ſeveral Writs, <hi>viz.</hi> 
+               <q rend="margSglQuotes">One in 1694, whereby he ſays in regard my Officers have been at great Expenſes in Recruits af<g ref="char:EOLhyphen"/>ter ſo many Draughts, and other conſiderable Charges in this Dear and unwholeſom place you are hereby Ordered, (<hi>viz.</hi> the Agent) to pay our the Sum of 1400 lib. <hi>ſterling</hi> which is in your Hands of Retention, according to an Agreement made concer<g ref="char:EOLhyphen"/>ning the ſame,</q> (At which time two of theſe Gentlemen were not Captains, and had they been, it is preſumable, their Proportions of the ſaid Dividend had been but ſmall con<g ref="char:EOLhyphen"/>ſidering the onerous Cauſe of the ſaid Gratuity, and the Complainers their deſerts, which are enumerat in Collonel <hi>Hills</hi> Letters, to my Lord High Chancellor, and my Lord <hi>Teviot,</hi> but both good Nature, and Manners makes the Lieutenant-Collonel forbear Particulars.) <q rend="margSglQuotes">And Which <hi>Order of Agreement,</hi> Major <hi>Forbes</hi> will give you <hi>&amp;c.</hi> and on the Back thereof Major <hi>Forbes</hi> ſays, you are to pay the within written Sum, 200 lib. to the Collonel, 100 lib. to each Captain, except <hi>Stuart</hi> and <hi>Hunter,</hi> whoſe Shares are to be burdened with 20 libs. to Caplain <hi>Cathcart,</hi> and 20 libs. to <hi>Richardſon,</hi> &amp;c. The other in 1695, ſays I deſire you to allow Lieutenant Collonel <hi>Hamiltoun,</hi> 50 lib. <hi>ſterling</hi> over and above the 100 lib. allowed to him at the laſt Diviſion of the 1400 lib. <hi>ſterling</hi> a<g ref="char:EOLhyphen"/>mong the Officers. <hi>&amp;c.</hi>
+               </q>
+            </p>
+            <p>But before making particular Anſwers, the Complainers would be pleaſed to mind, that the Collonel in the firſt part of the foreſaid order 1694, ſays, <q rend="margSglQuotes">That complaints were made to him, how ſeveral perſons who had no right to draw upon, or meddle with the Retention Money, do draw upon that Fond upon which he was cenſured as guilty of ne<g ref="char:EOLhyphen"/>glect in that which was <hi>peculiar to his post:</hi> therefore he requires the Agent that he an<g ref="char:EOLhyphen"/>ſwer no Bills, Orders, or make payments of Money upon that Fond, but ſuch as come <hi>to you from my ſelf under my own hand: with this aſſurance, that no other Bills or payments ſhould be allowed in Accompt.</hi> After which follows the preciſe words above ſet down anent the 1400 <hi>lib.</hi>
+               </q>
+            </p>
+            <p>Hence it is Anſwered.</p>
+            <p n="1">1. That the alledgance is <hi>not inſtructed,</hi> but further, the quite contrary is plainly pro<g ref="char:EOLhyphen"/>ven. For the Collonel vouches his Right, and that non without his <hi>ſpecial order</hi> ſhall <hi>draw on, or get any Money out of the Retention.</hi> They accept of this Paper with this quality, and can never approbat and reprobate the ſame Write. It bears that even the 1400 <hi>lib.</hi> was diſtribute upon a ſpecifick <hi>Accompt, viz.</hi> Their Expences about that time in Recruits, The Precept 1695, in favours of <hi>Hamilton,</hi> calls what he got <hi>an allowance:</hi> and the divi<g ref="char:EOLhyphen"/>ſion of the 1400 <hi>lib.</hi> likewiſe <hi>an allowance</hi> to the Officers; Which plainly implyes that it was only a temporary and <hi>precarius grant, quoad theſe particular Sums:</hi> eſpecially conſidering that it adds this ſhall be your warrand, <hi>without further receipt.</hi>
+            </p>
+            <p n="2">2. It is a method of arguing that is indeed <hi>new</hi> (which is the only ſpeciality in the caſe)
+<pb n="4" facs="tcp:175915:3"/>he that deals a part of his excreſent rents in <hi>almes</hi> muſt give the whole: And a weekly <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> day</hi> muſt be continued for ever: <hi>A given Horſe</hi> (againſt the old <hi>Scots</hi> Proverb) muſt <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> looked in the teeth. Gratifications which were always eſteemed to be <hi>strictly interpr<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> muſt henceforth be Stretched beyond the ſubject gifted, yea beyond all bounds. Lib<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>lity muſt be frighted, by making it <hi>of all</hi> that a man hath, if he let out any indication<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his generous mind. There muſt be no moreſuch a thing as the Lawyers call <hi>res merae faculi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> but all now muſt run to <hi>nece<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſity</hi> and <hi>bonds:</hi> 3. Theſe papers do ſufficiently Interpret <hi>th<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſelves</hi> without any ſuch comments as deſtroyes the Text. For the agreement mentioned the order 1694. is called an order of agreement, and expreſly referred to be told by M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Forbes,</hi> and Major <hi>Forbes</hi> on the back of the ſame Write <hi>tells and ſigns</hi> as is above rep<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſented,</p>
+            <p>There is another piece of new Logick introduced by the Complainers, <hi>viz.</hi> The Ag<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> accompt of the Retention 1693, is docketed thus, <q rend="inline margQuotes">'I Captain <hi>James Stuart</hi> being orde<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by the Collonel to reviſe the above-written Diſcharge, do certifie that I have examined Accompt and credentials, <hi>&amp;c.</hi> As alſo the Collonel in a docket of the Accompt from 1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to 1698, ſays the above written Accompt being viewed by my Officers, and peruſed me are found to be juſt and are allowed by me. Ergo the Retention money belongs to <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Officers,</q>
+            </p>
+            <p>It is Anſwered, the conſequence is denyed. And otherwiſe a compter might put up Money in his Pocket, becauſe he is imployed by the maſter of the Money to reviſe the compt. In a word the Collonel is a good man, a lover not only of a correſpondence twixt Friends, but likewiſe of his own eaſe: and therefore it is no marvel, that he took Officers aſſiſtance in that, as well as his other undoubtedly peculiar buſineſs. But it's a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> monſtration, that theſe very things do prove the right to have been owned in the Coll<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in ſo far as,
+<list>
+                  <item>1. The Officers had <hi>orders</hi> from him, and he that does by another doe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> himſelf.</item>
+                  <item>2. The Write bears that they only <hi>viewed,</hi> but he alone <hi>allowed.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="3">3. Suppoſe (which is ſtill more and more) that the Diſcharges were to be aſſaulted, the Collonels right not found to be good: yet neither Lieutenant Colllonel nor Agent be lyable, becauſe <hi>quoad</hi> the Agent he has made <hi>bona fide</hi> payment by his Conſtituents o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and as to the Lieutenant Collonel <hi>ſuum recepit,</hi> he has got but what was due to him by conſtituent, <hi>viz.</hi> The Collonel, and he neither did nor was obliged to enquire, out what part of his Debitors Eſtate (whither his own pay or other effects) this Caſh did proc<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>For clearing whereof, it may be conſidered, that the common intereſt of <hi>mankind</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made this a principal in all Nations, <hi>mobilia non habent ſequelam.</hi> fluxile Moveables, (<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eſpecially Money) paſſes without any burden of the laſt Poſſeſſor, his <hi>perſonal oblidgments,</hi> commerce neceſſary betwixt man and man requires, that there be not Flood-gates ope<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to Pleys for repetition of Money pretended to be wrongfully diſpoſed. This Money <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not ſtamped with the word <hi>(Retention)</hi> upon it, and whatever way the Collonel and ge<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t might have cleared among themſelves, in placing Deburſments to one Accompt, rath than another: yet the Lieutenant Collonel is no ways concerned out of what Fond his Ex<g ref="char:EOLhyphen"/>pences were furniſhed, and it had been Impertinence in him to have asked the Collonel <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Queſtion.</p>
+            <p>As this principal is founded in nature and neceſſity, ſo the other that <hi>qui ſuum recipit</hi> is <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> obliged to refound, Is no leſs plain in Law: as has been lately cleared by the Lords of S<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> on in a famous Deciſion, upon a remit of Parliament, betwixt <hi>Hope</hi> of <hi>Kerſs</hi> and <hi>Mu<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> of <hi>Spot.</hi> But ſo it is that the Lieutenant Collonel was imployed by the Collonel, and <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> proven of him by repeated approbations under his hand herewith produced, which cli<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him in all the undertakings which he went about with ſo much fatigue, and even ſuperp<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Expences out of his own Pocket for the publick good: and conſequently he who <hi>ſet <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> on</hi> work was bound to pay his Wages, and ſuch an honeſt maſter did never fail to <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them.</p>
+            <p>Its no ways to the purpoſe, that the Lieutenant Collonel might have done ſome of <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> own buſineſs in the <hi>intervals,</hi> but always <hi>without prejudice</hi> of theirs. For no Senſe or Rea<g ref="char:EOLhyphen"/>ſon can improbat any ſuch induſtery for a mans ſelf, when no other is indamaged by it: a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his imployer and Collonel has been ſo far from thinking otherwiſe, that he has fully app<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ven the Lieutenant Collonels faithful diſcharging of his Truſt.</p>
+            <p n="4">4. As to the particular condeſcendence, the Lieutenant Collonel and Agent are no wa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> concerned to make any Anſwer thereto; becauſe they moſt humbly conceive that th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> three <hi>ſeparat grounds</hi> before repreſented, are more than ſufficient to exoner them without entring to <hi>detail.</hi>
+            </p>
+            <p>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
